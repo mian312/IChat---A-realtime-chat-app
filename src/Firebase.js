@@ -21,13 +21,7 @@ import { getStorage } from "firebase/storage";
 
 //* Firebase Config
 const firebaseConfig = {
-  // 
-  apiKey: "AIzaSyB_U_HMRr9Qe4hoX64UFREflWEc9xQyo6M",
-  authDomain: "chat-app-3004f.firebaseapp.com",
-  projectId: "chat-app-3004f",
-  storageBucket: "chat-app-3004f.appspot.com",
-  messagingSenderId: "1014334188069",
-  appId: "1:1014334188069:web:12ef501466b9ed7ef5adcc"
+  // TODO: Firebase config.
 };
 
 //* Required initializations for making auths
